@@ -2,17 +2,29 @@ Stock Price Prediction Using LSTM
 This repository contains a time series forecasting model that predicts stock prices using a Long Short-Term Memory (LSTM) neural network in TensorFlow/Keras. The project includes data preprocessing, model training, evaluation, and visualization of predictions against actual values.
 
 Table of Contents
-Project Overview
-Dataset
-Preprocessing
-Model Architecture
-Training
-Evaluation
-Results
-Usage
-Dependencies
-License
-Project Overview
+ 
+ Project Overview
+ 
+ Dataset
+ 
+ Preprocessing
+ 
+ Model Architecture
+ 
+ Training
+ 
+ Evaluation
+  
+ Results
+ 
+ Usage
+ 
+ Dependencies
+ 
+ License
+ 
+ Project Overview
+
 This project demonstrates the use of an LSTM neural network to predict stock closing prices based on features including open, high, low, and volume. It uses callbacks like early stopping and learning rate reduction to optimize training performance and prevent overfitting.
 
 Dataset
